@@ -24,5 +24,5 @@ Before running the project, ensure you have the following installed:
 1. **Clone the Repository**
 
    ```bash
-   git clone [text](https://github.com/CHANDRUK29/Bulk-Import-Export)
+   git clone https://github.com/CHANDRUK29/Bulk-Import-Export
    cd your-repo
